@@ -12,7 +12,7 @@ RUN apt-get -qq install -y --no-install-recommends \
     gnupg2
 
 # Clone repository
-RUN git clone https://github.com/userbotindo/Anjani.git .
+RUN git clone https://github.com/TheFunkyFox/Anjani.git .
 
 # copy pyproject.toml and poetry.lock for layer caching
 COPY pyproject.toml poetry.lock ./
