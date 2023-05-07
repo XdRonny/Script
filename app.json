@@ -1,7 +1,7 @@
 {
-    "name": "AnjaniHelper",
-    "description": "Deploy Anjani on heroku",
-    "repository": "https://github.com/userbotindo/Anjani.git",
+    "name": "Script",
+    "description": "Deploy Bot on heroku",
+    "repository": "https://github.com/TheFunkyFox/Anjani.git",
     "keywords": [
         "Anjani",
         "Deployer",
@@ -11,7 +11,7 @@
     "env": {
         "BY": {
             "description": "Userbotindo Team",
-            "value": "@troublescope",
+            "value": "@TheBotHub",
             "required": false
         }
     },
